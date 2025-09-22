@@ -7,3 +7,4 @@ createRoot(document.getElementById('root')).render(
     <CompanyOpportunitiesPreview />
   </React.StrictMode>
 )
+import './index.css';
